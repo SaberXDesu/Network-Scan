@@ -1,3 +1,3 @@
 # Network-Scan
 
-My personal project for web scanning
+Greetings viewers! This repository here contains my list of python codes for network scanning. 
