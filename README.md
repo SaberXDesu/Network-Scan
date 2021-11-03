@@ -1,3 +1,3 @@
 # Network-Scan
 
-Greetings viewers! This repository here contains my list of python codes for network scanning. 
+Hello viewers! This repository here contains a list of python codes that I've made for network scanning
